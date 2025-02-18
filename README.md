@@ -17,7 +17,7 @@ I am a backend developer and an aspiring software developer, constantly working 
 I have almost a year of experience working as a fullstack developer using Java Spring Boot and Angular (TypeScript/JavaScript) on a commercial project related to state planning of military equipment. Additionally, I have project experience with Golang, Python Django, and working with microservices. Currently, I am developing a social network-like project with my team using microservice architecture and JWT security, along with exploring many other interesting features and learning new things.
 
 ## Education
-- **University:** SDU, Kazakhstan, Almaty
+- **University:** Kazakhstan, Almaty SDU
 - **Degree:** Bachelor's
 - **Major:** Information Systems
 - **Graduation Year:** 2025
