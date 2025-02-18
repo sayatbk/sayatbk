@@ -15,9 +15,18 @@ I am a backend developer and an aspiring software developer, constantly working 
 
 ## Experience
 
-### Fullstack Developer at Goverment Project
-- **Duration:** 1 year
-- **Role:** Fullstack Developer
+### Intern at Goverment Project
+- **Duration:** July 2024 - September 2024
+- **Role:** Intern
+- **Responsibilities:**
+  - Assisted in the development and maintenance of a state planning system for military equipment using Java Spring Boot and Angular (TypeScript/JavaScript).
+  - Collaborated with senior developers to design, implement, and deploy project components.
+  - Gained hands-on experience in integrating frontend and backend systems.
+- **Technologies Used:** Java, Spring Boot, Angular, TypeScript, JavaScript, Docker, PostgreSQL, GitLab
+
+### Junior Fullstack Developer at Goverment Project
+- **Duration:** September 2024 - Present
+- **Role:** Junior Fullstack Developer
 - **Responsibilities:**
   - Developed and maintained a state planning system for military equipment using Java Spring Boot and Angular (TypeScript/JavaScript).
   - Worked on the project from the very beginning, including design, implementation, and deployment.
