@@ -14,7 +14,20 @@ I am a backend developer and an aspiring software developer, constantly working 
 - Git (GitLab, GitHub)
 
 ## Experience
-I have almost a year of experience working as a fullstack developer using Java Spring Boot and Angular (TypeScript/JavaScript) on a commercial project related to state planning of military equipment. Additionally, I have project experience with Golang, Python Django, and working with microservices. Currently, I am developing a social network-like project with my team using microservice architecture and JWT security, along with exploring many other interesting features and learning new things.
+
+### Fullstack Developer at Goverment Project
+- **Duration:** 1 year
+- **Role:** Fullstack Developer
+- **Responsibilities:**
+  - Developed and maintained a state planning system for military equipment using Java Spring Boot and Angular (TypeScript/JavaScript).
+  - Worked on the project from the very beginning, including design, implementation, and deployment.
+  - Ensured smooth integration and communication between frontend and backend components.
+  - Utilized technologies such as Docker, PostgreSQL, and GitLab for version control and continuous integration.
+- **Technologies Used:** Java, Spring Boot, Angular, TypeScript, JavaScript, Docker, PostgreSQL, GitLab
+
+### Additional Projects
+- **Project Description:** Worked on various non-commercial and project-based experiences with Golang and Python Django. Focused on microservices architecture and JWT security.
+- **Current Project:** Developing a social network-like project with a team using microservice architecture and JWT security. Exploring new features and continually learning.
 
 ## Education
 - **University:** Kazakhstan, Almaty, SDU
