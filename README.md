@@ -51,7 +51,7 @@ I am a backend developer and an aspiring software developer, constantly working 
 ## Collaborations
 - [Baribir](https://github.com/kudaiberggen/baribir)
   BariBir - Uniting Interests, Creating Opportunities.
-  Test version of Baribir-platform
+  Test version of [Baribir-platform](https://github.com/sayatbk/baribir-platform)
 
 ## Contact
 - **Email:** [sayat.bazarbay.0@gmail.com](mailto:sayat.bazarbay.0@gmail.com)
