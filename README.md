@@ -47,6 +47,11 @@ I am a backend developer and an aspiring software developer, constantly working 
 ## Certifications
 - Certificate from DataArt QA Engineer
 
+
+## Collaborations
+- [BariBir - Uniting Interests, Creating Opportunities]([https://github.com/owner/repository](https://github.com/kudaiberggen/baribir))  
+  Description of your contributions or role in the project.
+
 ## Contact
 - **Email:** [sayat.bazarbay.0@gmail.com](mailto:sayat.bazarbay.0@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/sayatb/](https://www.linkedin.com/in/sayatb/)
