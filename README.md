@@ -49,7 +49,7 @@ I am a backend developer and an aspiring software developer, constantly working 
 
 
 ## Collaborations
-- [BariBir - Uniting Interests, Creating Opportunities]([https://github.com/owner/repository](https://github.com/kudaiberggen/baribir))  
+- [BariBir - Uniting Interests, Creating Opportunities:](https://github.com/kudaiberggen/baribir)
   Description of your contributions or role in the project.
 
 ## Contact
